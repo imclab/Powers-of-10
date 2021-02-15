@@ -1,7 +1,7 @@
 # Powers-of-10
 VR Universe Simulator App
 
-https://apps.apple.com/us/app/powers-of-10/id1499291911
+http://apple.co/2KE1kKx
 
 http://Pow10.com
 
