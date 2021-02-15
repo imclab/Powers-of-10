@@ -1,7 +1,7 @@
 # Powers-of-10
 VR Universe Simulator App
 
-<img src="https://github.com/imclab/Powers-of-10/blob/main/PowersOf10-VR-app-IMCLab.jpg" width="300px">
+<img src="https://github.com/imclab/Powers-of-10/blob/main/PowersOf10-VR-app-IMCLab.jpg" width="960px">
 
 http://apple.co/2KE1kKx
 
