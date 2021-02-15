@@ -3,6 +3,8 @@ VR Universe Simulator App
 
 https://apps.apple.com/us/app/powers-of-10/id1499291911
 
+http://Pow10.com
+
 https://youtu.be/YRDIeL5gZZc
 
 A magic carpet ride into the infinite... Powers of 10 is the latest VR app from The IMC Lab for iOS, Oculus & Vive. Explore the entire known universe on a beam of light, from string scale to cosmic scale, from brain to black hole.
